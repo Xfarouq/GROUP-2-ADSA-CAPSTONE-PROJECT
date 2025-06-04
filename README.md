@@ -33,7 +33,8 @@ The model achieved a test accuracy of approximately 93%, with strong precision a
 ## Deployment
 
 The trained model is deployed via a Gradio web application that allows users to upload blood smear images and get instant predictions on whether the cell is infected with malaria or not.
-👉 \[Insert video demo link if available]
+
+👉 Demo Link: https://drive.google.com/file/d/1JLiv7s4NYEIqIHU7Owsbgp-1QCJJBVZz/view?usp=drivesdk
 
 ## Future Work
 
@@ -47,4 +48,4 @@ We welcome community contributions to expand the dataset, improve classification
 
 ## Acknowledgments
 
-Special thanks to the Arewa Data Science Academy, our mentor Dr. Sani Aji, and other mentors for their unwavering support. Gratitude also goes to our peers and facilitators for their valuable input throughout the project.
+Special thanks to the Arewa Data Science Academy, our mentor *Dr. Sani Aji*, and other mentors for their unwavering support. Gratitude also goes to our peers and facilitators for their valuable input throughout the project.
