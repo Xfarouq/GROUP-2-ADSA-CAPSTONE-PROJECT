@@ -48,4 +48,4 @@ We welcome community contributions to expand the dataset, improve classification
 
 ## Acknowledgments
 
-Special thanks to the Arewa Data Science Academy, our mentor *Dr. Sani Aji*, and other mentors for their unwavering support. Gratitude also goes to our peers and facilitators for their valuable input throughout the project.
+Special thanks to the Arewa Data Science Academy, our mentors ***Engr. Mustapha Abdullahi*** and ***Dr. Sani Aji*** for their unwavering support. Gratitude also goes to our peers and facilitators for their valuable input throughout the project.
